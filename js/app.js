@@ -1,4 +1,4 @@
-var built = Built.App('bltd37e74f70bdc2c76').persistSessionWith(Built.Session.LOCAL_STORAGE);
+var built = Built.App('apikey').persistSessionWith(Built.Session.LOCAL_STORAGE);
 
 
 
